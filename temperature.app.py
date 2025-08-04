@@ -729,3 +729,4 @@ with tab1:
     """)
 
     st.markdown("---")
+    st.markdown("---")
