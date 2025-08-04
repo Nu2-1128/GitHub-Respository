@@ -78,8 +78,6 @@ cyipopt==1.5.0
 cymem==2.0.11
 Cython==3.0.12
 dask==2025.5.0
-dask-cuda==25.6.0
-dask-cudf-cu12==25.6.0
 dataproc-spark-connect==0.8.3
 datasets==4.0.0
 db-dtypes==1.4.3
@@ -435,7 +433,6 @@ pygit2==1.18.0
 Pygments==2.19.2
 PyGObject==3.42.0
 PyJWT==2.10.1
-pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.6.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==25.6.0
 pylibraft-cu12==25.6.0
 pymc==5.25.1
